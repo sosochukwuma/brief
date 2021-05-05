@@ -1,4 +1,4 @@
-// import 'dart:ui';
+import 'dart:ui';
 
 import 'package:flutter/material.dart';
 
@@ -23,26 +23,25 @@ class Details extends StatelessWidget {
           Padding(
             padding: const EdgeInsets.all(8.0),
             child: Container(
-              height: 120,
-              color: Colors.brown,
+              color: Colors.green,
               child: Padding(
                 padding: const EdgeInsets.all(8.0),
                 child: Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: <Widget>[
                     Text(
-                      'B.Sc. Computer Science',
+                      'User Interface: Page Redesign',
                       style: TextStyle(
                         color: Colors.white,
                         fontSize: 22,
                       ),
                     ),
                     Text(
-                      'Godfrey Okoye University, Enugu',
+                      'Nourishing Africa',
                       style: TextStyle(color: Colors.white, fontSize: 20),
                     ),
                     Text(
-                      '2019',
+                      '2020',
                       style: TextStyle(color: Colors.white, fontSize: 20),
                     )
                   ],
@@ -54,25 +53,25 @@ class Details extends StatelessWidget {
             padding: const EdgeInsets.all(8.0),
             child: Container(
               height: 120,
-              color: Colors.brown,
+              color: Colors.green,
               child: Padding(
                 padding: const EdgeInsets.all(8.0),
                 child: Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: <Widget>[
                     Text(
-                      'Class of 2018',
+                      'SwiitchApp: For Demonstration',
                       style: TextStyle(
                         color: Colors.white,
                         fontSize: 22,
                       ),
                     ),
                     Text(
-                      'Godfrey Okoye University, Enugu',
+                      'BTRx',
                       style: TextStyle(color: Colors.white, fontSize: 20),
                     ),
                     Text(
-                      '2019',
+                      '2021',
                       style: TextStyle(color: Colors.white, fontSize: 20),
                     )
                   ],
@@ -84,25 +83,55 @@ class Details extends StatelessWidget {
             padding: const EdgeInsets.all(8.0),
             child: Container(
               height: 120,
-              color: Colors.brown,
+              color: Colors.green,
               child: Padding(
                 padding: const EdgeInsets.all(8.0),
                 child: Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: <Widget>[
                     Text(
-                      'B.Sc. Computer Science',
+                      'Bot Building and Content Feed',
+                      style: TextStyle(
+                        color: Colors.white,
+                        fontSize: 23,
+                      ),
+                    ),
+                    Text(
+                      'Kitiri',
+                      style: TextStyle(color: Colors.white, fontSize: 20),
+                    ),
+                    Text(
+                      '2021',
+                      style: TextStyle(color: Colors.white, fontSize: 20),
+                    )
+                  ],
+                ),
+              ),
+            ),
+          ),
+          Padding(
+            padding: const EdgeInsets.all(8.0),
+            child: Container(
+              height: 120,
+              color: Colors.green,
+              child: Padding(
+                padding: const EdgeInsets.all(8.0),
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: <Widget>[
+                    Text(
+                      'Hackerthon Winner - BOKU App',
                       style: TextStyle(
                         color: Colors.white,
                         fontSize: 22,
                       ),
                     ),
                     Text(
-                      'Godfrey Okoye University, Enugu',
+                      'Hack The Normal - Africa',
                       style: TextStyle(color: Colors.white, fontSize: 20),
                     ),
                     Text(
-                      '2019',
+                      '2021',
                       style: TextStyle(color: Colors.white, fontSize: 20),
                     )
                   ],

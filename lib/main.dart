@@ -107,25 +107,25 @@ class Home extends StatelessWidget {
                       SizedBox(
                         height: 10,
                       ),
-                      // Row(
-                      //   mainAxisAlignment: MainAxisAlignment.center,
-                      //   children: <Widget>[
-                      //     Icon(
-                      //       Icons.account_circle,
-                      //       size: 50,
-                      //     ),
-                      //     SizedBox(
-                      //       width: 10,
-                      //     ),
-                      //     Text(
-                      //       'Experience Deisigner, Software Developer, Entreprenuer',
-                      //       style: TextStyle(fontSize: 24),
-                      //     )
-                      //   ],
-                      // ),
-                      // SizedBox(
-                      //   height: 10,
-                      // ),
+                      Row(
+                        mainAxisAlignment: MainAxisAlignment.center,
+                        children: <Widget>[
+                          Icon(
+                            Icons.stacked_line_chart_rounded,
+                            size: 50,
+                          ),
+                          SizedBox(
+                            width: 10,
+                          ),
+                          Text(
+                            '',
+                            style: TextStyle(fontSize: 24),
+                          )
+                        ],
+                      ),
+                      SizedBox(
+                        height: 10,
+                      ),
                     ],
                   ),
                 ),
