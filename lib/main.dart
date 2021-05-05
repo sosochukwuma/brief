@@ -21,7 +21,7 @@ class Home extends StatelessWidget {
           child: Column(
             children: <Widget>[
               SizedBox(
-                height: 20,
+                height: 10,
               ),
               Text(
                 'Flutter Developer',
@@ -42,7 +42,7 @@ class Home extends StatelessWidget {
                 height: 30,
               ),
               Text(
-                'The Mobile Developer For Your Spot',
+                'My name is Sochima',
                 style: TextStyle(fontSize: 24, fontWeight: FontWeight.w700),
               ),
               Padding(
@@ -117,7 +117,7 @@ class Home extends StatelessWidget {
                           width: 10,
                         ),
                         Text(
-                          'Text Here',
+                          'Experience Deisigner, Software Developer, Entreprenuer',
                           style: TextStyle(fontSize: 24),
                         )
                       ],
@@ -137,7 +137,7 @@ class Home extends StatelessWidget {
                 child: Padding(
                   padding: EdgeInsets.only(top: 10, bottom: 10),
                   child: Text(
-                    'More',
+                    'See More',
                     style: TextStyle(fontSize: 20, color: Colors.green),
                   ),
                 ),
