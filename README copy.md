@@ -1,6 +1,6 @@
 # port4app
 
-A Portfolio App
+A Portfolio App - I tried replicating an existing portfolio app.
 
 ## Getting Started
 
