@@ -25,11 +25,11 @@ class Home extends StatelessWidget {
                   height: 20,
                 ),
                 Text(
-                  'Flutter Developer',
+                  'Software Developer',
                   style: TextStyle(
                     fontSize: 32,
                     fontWeight: FontWeight.w900,
-                    color: Colors.indigoAccent,
+                    color: Colors.green,
                   ),
                 ),
                 SizedBox(
@@ -80,7 +80,7 @@ class Home extends StatelessWidget {
                             width: 10,
                           ),
                           Text(
-                            'Nigerian',
+                            'Flutter',
                             style: TextStyle(fontSize: 24),
                           )
                         ],
@@ -99,7 +99,7 @@ class Home extends StatelessWidget {
                             width: 10,
                           ),
                           Text(
-                            'Flutter, Kotlin, Java',
+                            'Nigerian',
                             style: TextStyle(fontSize: 24),
                           )
                         ],
@@ -107,25 +107,25 @@ class Home extends StatelessWidget {
                       SizedBox(
                         height: 10,
                       ),
-                      Row(
-                        mainAxisAlignment: MainAxisAlignment.center,
-                        children: <Widget>[
-                          Icon(
-                            Icons.account_circle,
-                            size: 50,
-                          ),
-                          SizedBox(
-                            width: 10,
-                          ),
-                          Text(
-                            'Experience Deisigner, Software Developer, Entreprenuer',
-                            style: TextStyle(fontSize: 24),
-                          )
-                        ],
-                      ),
-                      SizedBox(
-                        height: 10,
-                      ),
+                      // Row(
+                      //   mainAxisAlignment: MainAxisAlignment.center,
+                      //   children: <Widget>[
+                      //     Icon(
+                      //       Icons.account_circle,
+                      //       size: 50,
+                      //     ),
+                      //     SizedBox(
+                      //       width: 10,
+                      //     ),
+                      //     Text(
+                      //       'Experience Deisigner, Software Developer, Entreprenuer',
+                      //       style: TextStyle(fontSize: 24),
+                      //     )
+                      //   ],
+                      // ),
+                      // SizedBox(
+                      //   height: 10,
+                      // ),
                     ],
                   ),
                 ),
