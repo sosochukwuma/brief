@@ -1,4 +1,4 @@
-#Wed May 05 03:15:13 WAT 2021
-base.0=/Users/ounr/AndroidStudioProjects/port4app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+#Wed May 05 11:30:13 WAT 2021
+base.0=/Users/ounr/AndroidStudioProjects/port4app/sosochukwuma/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

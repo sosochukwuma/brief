@@ -1,30 +1,30 @@
 [
     {
-        "merged": "/Users/ounr/AndroidStudioProjects/port4app/build/app/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "/Users/ounr/AndroidStudioProjects/port4app/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+        "merged": "/Users/ounr/AndroidStudioProjects/port4app/sosochukwuma/build/app/intermediates/res/merged/debug/drawable-v21_launch_background.xml.flat",
+        "source": "/Users/ounr/AndroidStudioProjects/port4app/sosochukwuma/android/app/src/main/res/drawable-v21/launch_background.xml"
     },
     {
-        "merged": "/Users/ounr/AndroidStudioProjects/port4app/build/app/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "/Users/ounr/AndroidStudioProjects/port4app/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+        "merged": "/Users/ounr/AndroidStudioProjects/port4app/sosochukwuma/build/app/intermediates/res/merged/debug/mipmap-xhdpi_i73.png.flat",
+        "source": "/Users/ounr/AndroidStudioProjects/port4app/sosochukwuma/android/app/src/main/res/mipmap-xhdpi/i73.png"
     },
     {
-        "merged": "/Users/ounr/AndroidStudioProjects/port4app/build/app/intermediates/res/merged/debug/drawable-v21_launch_background.xml.flat",
-        "source": "/Users/ounr/AndroidStudioProjects/port4app/android/app/src/main/res/drawable-v21/launch_background.xml"
+        "merged": "/Users/ounr/AndroidStudioProjects/port4app/sosochukwuma/build/app/intermediates/res/merged/debug/drawable_launch_background.xml.flat",
+        "source": "/Users/ounr/AndroidStudioProjects/port4app/sosochukwuma/android/app/src/main/res/drawable/launch_background.xml"
     },
     {
-        "merged": "/Users/ounr/AndroidStudioProjects/port4app/build/app/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "/Users/ounr/AndroidStudioProjects/port4app/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+        "merged": "/Users/ounr/AndroidStudioProjects/port4app/sosochukwuma/build/app/intermediates/res/merged/debug/mipmap-mdpi_i73.png.flat",
+        "source": "/Users/ounr/AndroidStudioProjects/port4app/sosochukwuma/android/app/src/main/res/mipmap-mdpi/i73.png"
     },
     {
-        "merged": "/Users/ounr/AndroidStudioProjects/port4app/build/app/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "/Users/ounr/AndroidStudioProjects/port4app/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+        "merged": "/Users/ounr/AndroidStudioProjects/port4app/sosochukwuma/build/app/intermediates/res/merged/debug/mipmap-hdpi_i73.png.flat",
+        "source": "/Users/ounr/AndroidStudioProjects/port4app/sosochukwuma/android/app/src/main/res/mipmap-hdpi/i73.png"
     },
     {
-        "merged": "/Users/ounr/AndroidStudioProjects/port4app/build/app/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "/Users/ounr/AndroidStudioProjects/port4app/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "/Users/ounr/AndroidStudioProjects/port4app/sosochukwuma/build/app/intermediates/res/merged/debug/mipmap-xxxhdpi_i73.png.flat",
+        "source": "/Users/ounr/AndroidStudioProjects/port4app/sosochukwuma/android/app/src/main/res/mipmap-xxxhdpi/i73.png"
     },
     {
-        "merged": "/Users/ounr/AndroidStudioProjects/port4app/build/app/intermediates/res/merged/debug/drawable_launch_background.xml.flat",
-        "source": "/Users/ounr/AndroidStudioProjects/port4app/android/app/src/main/res/drawable/launch_background.xml"
+        "merged": "/Users/ounr/AndroidStudioProjects/port4app/sosochukwuma/build/app/intermediates/res/merged/debug/mipmap-xxhdpi_i73.png.flat",
+        "source": "/Users/ounr/AndroidStudioProjects/port4app/sosochukwuma/android/app/src/main/res/mipmap-xxhdpi/i73.png"
     }
 ]

@@ -55,7 +55,7 @@ class Home extends StatelessWidget {
                         children: <Widget>[
                           Icon(
                             Icons.mail_outline,
-                            size: 50,
+                            size: 25,
                           ),
                           SizedBox(
                             width: 10,
@@ -74,7 +74,7 @@ class Home extends StatelessWidget {
                         children: <Widget>[
                           Icon(
                             Icons.location_on,
-                            size: 50,
+                            size: 25,
                           ),
                           SizedBox(
                             width: 10,
@@ -93,7 +93,7 @@ class Home extends StatelessWidget {
                         children: <Widget>[
                           Icon(
                             Icons.home,
-                            size: 50,
+                            size: 25,
                           ),
                           SizedBox(
                             width: 10,
